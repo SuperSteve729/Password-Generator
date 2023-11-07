@@ -8,3 +8,5 @@ This is a pretty basic password generator. It includes:
 After selecting all your options, your password is generated and is ready for use.
 Here's an example of how it looks:
 ![Example of password generator](password-generator-example.png)
+
+And here's a link to the deployed website: [Password Generator](https://supersteve729.github.io/Password-Generator/)
